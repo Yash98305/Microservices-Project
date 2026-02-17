@@ -1,2 +1,6 @@
 # Microservices-Project
 1st microservice project
+for docker run
+docker-compose down -v
+docker-compose build --no-cache
+docker-compose up -d
